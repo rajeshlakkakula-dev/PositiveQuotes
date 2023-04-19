@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PositiveQuotes</string>
+
+    <string name="quote1">Keep your face to the sunshine and you cannot see a shadow.</string>
+    <string name="quote2">Positive anything is better than negative nothing.</string>
+    <string name="quote3">The only time you fail is when you fall down and stay down</string>
+    <string name="quote4">It’s not whether you get knocked down, it’s whether you get up.</string>
+    <string name="quote5">The happiness of your life depends upon the quality of your thoughts.</string>
+    <string name="quote6"> Happiness is the only thing that multiplies when you share it.</string>
+    <string name="quote7">Positive thinking will let you do everything better than negative thinking will.</string>
+    <string name="quote8"> You are never too old to set another goal or dream a new dream.</string>
+    <string name="quote9">The difference between ordinary and extraordinary is that little extra.</string>
+    <string name="quote10"> No one is perfect – that’s why pencils have erasers.</string>
+
+
+
+</resources>
